@@ -59,7 +59,7 @@
         <moduleSet>
             <useAllReactorProjects>true</useAllReactorProjects>
             <includes>
-                <include>com.alibaba.nacos:nacos-core</include>
+                <include>com.lzhpo.nacos:nacos-core</include>
             </includes>
             <binaries>
                 <outputDirectory>lib/</outputDirectory>

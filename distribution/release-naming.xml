@@ -60,7 +60,7 @@
         <moduleSet>
             <useAllReactorProjects>true</useAllReactorProjects>
             <includes>
-                <include>com.alibaba.nacos:nacos-naming</include>
+                <include>com.lzhpo.nacos:nacos-naming</include>
             </includes>
             <binaries>
                 <outputDirectory>lib/</outputDirectory>

@@ -60,7 +60,7 @@
         <moduleSet>
             <useAllReactorProjects>true</useAllReactorProjects>
             <includes>
-                <include>com.alibaba.nacos:nacos-client</include>
+                <include>com.lzhpo.nacos:nacos-client</include>
             </includes>
             <binaries>
                 <outputDirectory>lib/</outputDirectory>
