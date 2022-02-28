@@ -23,6 +23,7 @@ import com.alibaba.nacos.naming.core.v2.ServiceManager;
 import com.alibaba.nacos.naming.core.v2.index.ServiceStorage;
 import com.alibaba.nacos.naming.core.v2.pojo.Service;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Lazy;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -40,7 +41,8 @@ public class NacosServiceInfoResourceWatcher implements Runnable {
 
     @Autowired
     private ServiceStorage serviceStorage;
-
+    
+    @Lazy
     @Autowired
     private EventProcessor eventProcessor;
 
