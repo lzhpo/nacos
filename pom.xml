@@ -1022,11 +1022,11 @@
     <!-- Publish to Maven Central Repository -->
     <distributionManagement>
         <snapshotRepository>
-            <id>maven-central-sonatype</id>
+            <id>ossrh</id>
             <url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
         </snapshotRepository>
         <repository>
-            <id>maven-central-sonatype</id>
+            <id>ossrh</id>
             <url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
