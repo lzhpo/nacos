@@ -64,7 +64,7 @@
             <artifactId>nacos-auth</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.alibaba.nacos</groupId>
+            <groupId>com.lzhpo.nacos</groupId>
             <artifactId>nacos-trace-plugin</artifactId>
         </dependency>
         
@@ -171,7 +171,7 @@
             <artifactId>grpc-testing</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.alibaba.nacos</groupId>
+            <groupId>com.lzhpo.nacos</groupId>
             <artifactId>nacos-contrl-plugin</artifactId>
             <version>${revision}</version>
         </dependency>

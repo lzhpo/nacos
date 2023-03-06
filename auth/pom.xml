@@ -41,7 +41,7 @@
             <artifactId>nacos-common</artifactId>
         </dependency>
         <dependency>
-            <groupId>com.alibaba.nacos</groupId>
+            <groupId>com.lzhpo.nacos</groupId>
             <artifactId>nacos-auth-plugin</artifactId>
         </dependency>
         <dependency>

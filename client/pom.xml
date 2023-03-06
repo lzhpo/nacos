@@ -73,7 +73,7 @@
         </dependency>
     
         <dependency>
-            <groupId>com.alibaba.nacos</groupId>
+            <groupId>com.lzhpo.nacos</groupId>
             <artifactId>nacos-encryption-plugin</artifactId>
         </dependency>
         

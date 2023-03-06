@@ -41,8 +41,7 @@ public class NacosServiceInfoResourceWatcher implements Runnable {
 
     @Autowired
     private ServiceStorage serviceStorage;
-    
-    @Lazy
+
     @Autowired
     private EventProcessor eventProcessor;
 
